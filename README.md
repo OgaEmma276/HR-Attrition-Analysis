@@ -8,10 +8,13 @@ The dataset used for analysis contains [X rows] and [Y columns].
 Data cleaning involved removing duplicates, handling missing values, and standardizing column names for consistency.
 
 # Data Exploration:
-  # Summary Statistics: Key insights from age distribution, tenure, and education.
-  # Department and Role Distribution: Breakdown of employees across departments and roles.
+  # Summary Statistics: 
+  Key insights from age distribution, tenure, and education.
+  # Department and Role Distribution: 
+  Breakdown of employees across departments and roles.
 
-# Correlation Analysis: Highlighting significant correlations between key variables.
+# Correlation Analysis: 
+Highlighting significant correlations between key variables.
 
 # Attrition Analysis:
 Attrition Rate: Calculated attrition rate and identified factors contributing to employee departures.
